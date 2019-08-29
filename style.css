@@ -1,0 +1,51 @@
+h1 {
+  font-family: helvetica, arial, sans-serif;
+  text-align: center;
+  padding-top:50px;
+}
+
+.info_1 img {
+  position: absolute;
+  padding-top:100px;
+  right:100px;
+  height: 250px;
+}
+
+.info_1, .work, .education{
+  padding-top: 10px;
+  padding-left: 100px; 
+  padding-right: 100px; 
+}
+
+nav {
+  height: 50px;
+  flex: 100%;
+  display: flex;
+  padding-left: 100px; 
+  padding-right: 100px; 
+}
+
+nav ul {
+  padding: 0;
+  list-style-type: none;
+  flex: 2;
+  display: flex;
+}
+
+nav li {
+  display: inline;
+  text-align: center;
+  flex: 1;
+}
+
+.introduce, .why, .how, .favorite, .challenge, .career, .video{
+    height: 50px;
+    width: 100px;
+    border: 2px solid black;
+}
+
+.info_2{
+  padding-bottom: 500px;
+  padding-left: 100px; 
+  padding-right: 100px; 
+}
