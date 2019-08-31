@@ -17,6 +17,12 @@ h1 {
   padding-right: 100px; 
 }
 
+.result{
+  padding-left: 100px; 
+  padding-right: 100px; 
+}
+
+
 nav {
   height: 50px;
   flex: 100%;
