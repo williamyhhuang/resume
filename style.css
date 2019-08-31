@@ -1,3 +1,7 @@
+html {
+    padding-bottom: 500px; 
+}
+
 h1 {
   font-family: helvetica, arial, sans-serif;
   text-align: center;
@@ -17,7 +21,7 @@ h1 {
   padding-right: 100px; 
 }
 
-.result{
+.result, .why_result{
   padding-left: 100px; 
   padding-right: 100px; 
 }

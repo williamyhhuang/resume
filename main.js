@@ -12,3 +12,9 @@ function loadTxt() {
         console.log(error);
     })
 }
+
+var why_result = document.querySelector('.why_result');
+var why = document.querySelector('.why');
+why.onclick = function why() {
+      why_result.textContent = 'why myself'
+}
