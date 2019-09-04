@@ -3,14 +3,13 @@
 <p>Hi I'm William, was born in Taoyuan, Taiwan. In undergraduate, My research subject is about vibration of beam, we simulate the
 vibration of beam by software called Abaqus, to calculate the natural frequency of vibration. Also in order to get the experimental  
 data, we have an experiment of fixed beam, we compare both data from simulation and experiment, and figure out what cause the 
-difference.</p><br><br>
+difference.</p>
 
   <p>And I went to Tainan for master degree of mechanical engineering. My thesis is about simulation of quantum mechanics, because the 
 simulation only can operate on Linux system, so I learn some simple sommand of terminal, and how to install open source by terminal, 
-      also write a python script in order to transfer the data made by one open source into another open source.</p><br><br> 
+      also write a python script in order to transfer the data made by one open source into another open source.</p>
 
-  <p>Now I'm working in AUO as mechanical engineer. Our job is to develop some new structure and techniques. We develop the product vary 
-      from mobile to TV, it's a hard work.</p>
+  <p>Now I'm working in AUO as mechanical engineer. Our job is to develop some new structure and techniques. We develop the product vary from mobile to TV, it's a hard work.</p>
     
     </body>
 </html>
