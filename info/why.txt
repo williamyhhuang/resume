@@ -1,1 +1,7 @@
-why myself
+<html>
+    <body>
+        <p>I was amazed that Google offers a cloud gaming service called <a href='https://zh.wikipedia.org/wiki/Google_Stadia'>Stadia</a>, you can play 4K resolution games via the browser-Google Chrome. This let me think about the posibility of browser, maybe oneday you can do anything only by a browser, and you don't have to install any software or application in your PC, just a browser.</p>
+        <p>And the other thing impress me is the <a href='https://ithome.com.tw/news/132736'>tax system</a> in Taiwan. In the past, Taiwan citizens complain the online tax system is too hard to use, but now you can pay the taxes online by various browser and OS, and is easy-understanding.</p>
+        <p>I think there are so many websites are using the old framework or techniques, and new services and things are being developed, which means it needs a lot of backend engineers to do the work, that's why I want to be a backend engineer. </p>
+    </body>
+</html>

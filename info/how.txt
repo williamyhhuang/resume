@@ -1,1 +1,6 @@
-how myself
+<html>
+    <body>
+        <p>Recently I'm learning the basic knowledge on the <a href='https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web'>MDN Web Development</a>, the <a href='https://www.w3schools.com/default.asp'>W3Schools</a> helps me a lot, too. When I encounter some problems, Google is very useful, some YouTube video tutorials are easy-understanding, and the technical forums are also my good friends, like StackOverFlow, GeeksForGeeks, etc. Some series article on iThome(aka iT邦幫忙鐵人賽) is a good resource.</p>  
+        <p>Also I take notes by the HackMD, I write every problems or issue I encounter on it.</p>
+    </body>
+</html>
