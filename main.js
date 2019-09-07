@@ -114,20 +114,3 @@ function loadTxt_career() {
     })
 }
 
-/*
-document.getElementById('video').addEventListener('click', loadTxt_video);
-function loadTxt_video() {
-    title.textContent = 'Here is my 1 min self-intro video';
-    fetch('info/video.txt')
-    .then(function(response){
-        return response.text();
-    })
-    .then(function(data){
-        console.log(data);
-        document.getElementById('result').innerHTML = data;
-    })
-    .catch(function(error){
-        console.log(error);
-    })
-}
-*/
