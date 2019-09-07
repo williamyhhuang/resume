@@ -18,29 +18,6 @@ var challenge = document.querySelector('.challenge');
 var career = document.querySelector('.career');
 var video = document.querySelector('.video');
 
-
-/*
-introduce.onclick = function introduce() {
-      title.textContent = "Let me introduce myself";
-}
-
-why.onclick = function why_title() {
-      title.textContent = 'Why do I want to be a backend engineer?';
-}
-how.onclick = function how() {
-      title.textContent = 'How do I learn by myself?';
-}
-favorite.onclick = function favorite() {
-      title.textContent = 'what is my favorite subject in school?';
-}
-challenge.onclick = function chanllenge() {
-      title.textContent = 'What\'s the most chanllening thing in my life?';
-}
-video.onclick = function video() {
-      title.textContent = 'Here\'s my introduction video';
-}
-*/
-
 document.getElementById('introduce').addEventListener('click', loadTxt_introduce);
 function loadTxt_introduce() {
     title.textContent = "Let me introduce myself";
@@ -137,6 +114,7 @@ function loadTxt_career() {
     })
 }
 
+/*
 document.getElementById('video').addEventListener('click', loadTxt_video);
 function loadTxt_video() {
     title.textContent = 'Here is my 1 min self-intro video';
@@ -152,3 +130,4 @@ function loadTxt_video() {
         console.log(error);
     })
 }
+*/
