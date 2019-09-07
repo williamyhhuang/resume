@@ -1,5 +1,5 @@
 <html>
     <body>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/-6d-o1Vy0p8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <video src=https://youtu.be/-6d-o1Vy0p8></video>
     </body>
 </html>
