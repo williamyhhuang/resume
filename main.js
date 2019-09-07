@@ -16,7 +16,7 @@ var how = document.querySelector('.how');
 var favorite = document.querySelector('.favorite');
 var challenge = document.querySelector('.challenge');
 var career = document.querySelector('.career');
-var video = document.querySelector('.video');
+
 
 document.getElementById('introduce').addEventListener('click', loadTxt_introduce);
 function loadTxt_introduce() {
