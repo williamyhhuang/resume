@@ -1,1 +1,6 @@
-career myself
+<html>
+    <body>
+        <p>If I have chance to take part in the AppWorks School winter 2019 application, I would take whole my heart and soul get involved in the class, and be a backend engineer. After graduating from AppWorks school, I want to work in a company, it doesn't has to be a big company, but develop something interesting, like WeMo, Flux 3D printing, and so on. After having enough skills and work experience in software industry, I would like to challenge myself by working abroad.</p>
+        <p>And if unfortunately I can't participate in the AppWorks School winter 2019 application, I would still keep learning software knowledge by myself, and apply AppWorks School application in 2020! </p>
+    </body>
+</html>

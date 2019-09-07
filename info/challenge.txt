@@ -1,1 +1,6 @@
-challenge myself
+<html>
+    <body>
+        <p>After finishing my military substitute service, I went to China for a three-week self-guided tour. I went to Chengdu, Tibet,  Xining and Beijing, I planed everything by myself, including booking flight tickets, contacting with travel agency (Taiwanese has to visit Tibet in group), booking hostel, and so on. I met some nice Chinese, gorgeous landscape,  also visit my friend who works in China, it's quite a impressing journey.</p>
+        <p>When I was a fresh man in AUO, I was responsible for two project at the same time, one project is a developing structure, and the other one is to design VR application for the American company. This two projects are both urgent and important, and it's difficult for a fresh man like me, because I didn't know anything about it! Thanks god I have very kind co-workers and mentor, they gave me a lot of help and suggestions, I worked hard on it, and this is my first time to have a conference meeting with foreign clients. As a result, I finished both of the project on time, the new structure is successful, the VR product for American company is good-working.</p>
+    </body>
+</html>

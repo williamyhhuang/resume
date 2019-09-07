@@ -1,5 +1,6 @@
 <html>
     <body>
-        <p>unfinished</p>
+        <p>My favorite subject in school is molecular dynamics, it describes how molecule works in microscope scale. We predict the molecular beheavior by writing code in Matlab, so I have basic sense to some functions, like for-loop, if-else, and so on.</p>
+        <p>My master thesis is about simulation of quantum mechanics, which is simulated by open source on Linux system. I'm the first person in my Lab to do the research of this field, so I take some time to learn how to install Linux OS (in this case I choose Ubuntu), and some simple command in terminal, like sudo, cd, ls, etc. Also in order to transfer the data from one open source to another open source, I write a simple python script to do this job, it's quite fun!</p>
     </body>
 </html>
